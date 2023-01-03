@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NOORMOHAMMED789/Laundry-Cart-BackEnd.git"
+    "url": "git+https://github.com/abhi751/laundryCart-backend.git"
   },
   "keywords": [
     "laundry",
@@ -30,7 +30,7 @@
   "author": "Md Zeeshan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/NOORMOHAMMED789/Laundry-Cart-BackEnd/issues"
+    "url": "https://github.com/abhi751/laundryCart-backend.git/issues"
   },
-  "homepage": "https://github.com/NOORMOHAMMED789/Laundry-Cart-BackEnd#readme"
+  "homepage": "https://github.com/abhi751/laundryCart-backend.git#readme"
 }
